@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Antonia M. Rodriguez amrodriguez@gmail.com @awesome
 
 # THANKS
 
