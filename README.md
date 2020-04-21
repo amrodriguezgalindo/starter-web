@@ -21,4 +21,4 @@ Please fork this repository and then issue Pull Request for rewiew
 
 ## Copyright
 
-Git.Traingin
+2014 Git.Traingin. All rights
